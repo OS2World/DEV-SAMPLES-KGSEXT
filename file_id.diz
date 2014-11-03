@@ -1,0 +1,10 @@
+KGSEXT.CPP
+
+rebuild IOC DLL without dragdrop but
+with toolbar.  When you try to rebuild
+the IOC DLL without drag and drop
+support (remove IDM*.OBJ) but you want
+the IToolBar class, you will find this
+CPP useful. compile and link it to the
+DLL to resolve external references.
+Documentation inside...
